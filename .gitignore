@@ -1,0 +1,5 @@
+# ignore generated html files,
+*.chm
+*.exe
+license.txt
+**/data
